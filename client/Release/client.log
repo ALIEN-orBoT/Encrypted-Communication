@@ -1,0 +1,15 @@
+﻿  client.cpp
+  des.cpp
+D:\0000\CProgram\CryptoChat\client\des.cpp(175,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\0000\CProgram\CryptoChat\client\des.cpp(175,42): warning C4018: “<”: 有符号/无符号不匹配
+D:\0000\CProgram\CryptoChat\client\des.cpp(279,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\0000\CProgram\CryptoChat\client\des.cpp(320,23): warning C4018: “<=”: 有符号/无符号不匹配
+D:\0000\CProgram\CryptoChat\client\des.cpp(403,23): warning C4018: “<”: 有符号/无符号不匹配
+  rsa.cpp
+D:\0000\CProgram\CryptoChat\client\rsa.cpp(146,24): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\0000\CProgram\CryptoChat\client\rsa.cpp(162,24): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 292 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  client.vcxproj -> D:\0000\CProgram\CryptoChat\Release\client.exe

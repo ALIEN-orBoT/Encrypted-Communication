@@ -1,0 +1,12 @@
+﻿  client.cpp
+  des.cpp
+D:\0000\CProgram\CryptoChat\client\des.cpp(419,79): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\0000\CProgram\CryptoChat\client\des.cpp(429,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\0000\CProgram\CryptoChat\client\des.cpp(460,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\0000\CProgram\CryptoChat\client\des.cpp(500,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  rsa.cpp
+D:\0000\CProgram\CryptoChat\client\rsa.cpp(118,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\0000\CProgram\CryptoChat\client\rsa.cpp(146,24): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\0000\CProgram\CryptoChat\client\rsa.cpp(162,24): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  client.vcxproj -> D:\0000\CProgram\CryptoChat\x64\Debug\client.exe
