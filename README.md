@@ -6,4 +6,4 @@ a easy crypt chat for course work
 使用VS2022编写
 
 演示图片：
-demo.png
+![demo.png](./demo.png)
